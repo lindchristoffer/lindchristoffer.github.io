@@ -36,7 +36,7 @@ Nyce Logic  | **2012-2017**
 Sogeti AB |  **2017-**
 
 
-Additional competences
+### Additional competences
 
 ```addcomp
 - Scrum

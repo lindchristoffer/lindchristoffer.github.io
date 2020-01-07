@@ -1,6 +1,6 @@
 ## About
 
-Me on LinkedIn [editor on GitHub](https://www.linkedin.com/in/christoffer-lind/) 
+Me on [LinkedIn](https://www.linkedin.com/in/christoffer-lind/) 
 
 ### Developer
 

@@ -8,6 +8,8 @@ Me on [LinkedIn](https://www.linkedin.com/in/christoffer-lind/)
  - .Net framework
  - .Net Core
  - C#
+ - MSTest
+ - WPF
  
 #### Web development
  - AngularJS
@@ -34,5 +36,21 @@ Nyce Logic  | **2012-2017**
 Sogeti AB |  **2017-**
 
 
+Additional competences
 
+```addcomp
+- Scrum
+- Agile development
+- Standard: XSD-XML Schema Definition 
+- Manufacturing Execution System 
+- Warehouse Management System
+- VB script
+- Rest API
+- TFS
+- Devops
+- Linux
+- Linq
+- Postman
+
+```
 

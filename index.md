@@ -4,37 +4,34 @@ Me on [LinkedIn](https://www.linkedin.com/in/christoffer-lind/)
 
 ### Developer
 
-```developer
-
-# .Net development
+#### .Net development
  - .Net framework
  - .Net Core
  - C#
  
-# Web development
+#### Web development
  - AngularJS
  - React JS
  - Html
 
-# Database development
+#### Database development
  - Sql server
  - MySql
 
-# Python development
+#### Python development
  
-# Cloud computing
+#### Cloud computing
  - Azure
-```
+
 
 ### Profile
 
-```profile
-
 *Worked since 2012 as a consultant and developer*
- 
-_Nyce Logic **2012-2017**
-_Sogeti AB **2017-**
+ Company | Year
+------------ | -------------
+_Nyce Logic  _ | **2012-2017**
+_Sogeti AB _ |  **2017-**
 
 
- 
-```
+
+

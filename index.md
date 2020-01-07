@@ -26,3 +26,15 @@ Me on [LinkedIn](https://www.linkedin.com/in/christoffer-lind/)
  - Azure
 ```
 
+### Profile
+
+```profile
+
+*Worked since 2012 as a consultant and developer*
+ 
+_Nyce Logic **2012-2017**
+_Sogeti AB **2017-**
+
+
+ 
+```

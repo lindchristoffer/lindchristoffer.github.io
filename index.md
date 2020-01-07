@@ -27,10 +27,11 @@ Me on [LinkedIn](https://www.linkedin.com/in/christoffer-lind/)
 ### Profile
 
 *Worked since 2012 as a consultant and developer*
- Company | Year
+
+Company | Year
 ------------ | -------------
-_Nyce Logic  _ | **2012-2017**
-_Sogeti AB _ |  **2017-**
+Nyce Logic  | **2012-2017**
+Sogeti AB |  **2017-**
 
 
 

@@ -54,6 +54,8 @@ Sogeti AB |  **2017-**
 - Linux
 - Linq
 - Postman
+- Scrum master role
+- System architect role
 
 ```
 

@@ -56,6 +56,7 @@ Sogeti AB |  **2017-**
 - Postman
 - Scrum master role
 - System architect role
+- Node JS express
 
 ```
 

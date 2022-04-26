@@ -15,10 +15,13 @@ Me on [LinkedIn](https://www.linkedin.com/in/christoffer-lind/)
  - AngularJS
  - React JS
  - Html
+ - Typescript
+ - Cypress
 
 #### Database development
  - Sql server
  - MySql
+ - MongoDB
 
 #### Python development
  

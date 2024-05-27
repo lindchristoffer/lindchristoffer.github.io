@@ -1,6 +1,6 @@
 ## About
 
-Me  [Lindify](https://www.christoffer.lindify.se) 
+Me  [Lindify](https://christoffer.lindify.se/)   
 Me on [LinkedIn](https://www.linkedin.com/in/christoffer-lind/) 
 
 ### Developer  

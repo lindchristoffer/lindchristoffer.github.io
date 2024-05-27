@@ -3,6 +3,7 @@
 Me on [LinkedIn](https://www.linkedin.com/in/christoffer-lind/) 
 
 ### Developer
+### Software Architect
 
 #### .Net development
  - .Net framework
@@ -12,8 +13,8 @@ Me on [LinkedIn](https://www.linkedin.com/in/christoffer-lind/)
  - WPF
  
 #### Web development
- - AngularJS
- - React JS
+ - Angular
+ - React
  - Html
  - Typescript
  - Cypress
@@ -27,16 +28,19 @@ Me on [LinkedIn](https://www.linkedin.com/in/christoffer-lind/)
  
 #### Cloud computing
  - Azure
+ - AWS
 
 
 ### Profile
 
 *Worked since 2012 as a consultant and developer*
+*Freelancer running my own firm since 2023*
 
 Company | Year
 ------------ | -------------
 Nyce Logic  | **2012-2017**
-Sogeti AB |  **2017-**
+Sogeti AB |  **2017-2023
+Lindify IT AB |  **2023-**
 
 
 ### Additional competences

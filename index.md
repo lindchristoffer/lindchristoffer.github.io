@@ -2,7 +2,7 @@
 
 Me on [LinkedIn](https://www.linkedin.com/in/christoffer-lind/) 
 
-### Developer
+### Developer  
 ### Software Architect
 
 #### .Net development
@@ -33,8 +33,8 @@ Me on [LinkedIn](https://www.linkedin.com/in/christoffer-lind/)
 
 ### Profile
 
-*Worked since 2012 as a consultant and developer*
-**Freelancer running my own firm since 2023**
+*Worked since 2012 as a consultant and developer.*  
+*Freelancer running my own firm since 2023.*
 
 Company | Year
 ------------ | -------------

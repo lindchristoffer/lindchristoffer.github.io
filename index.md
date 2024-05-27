@@ -39,7 +39,7 @@ Me on [LinkedIn](https://www.linkedin.com/in/christoffer-lind/)
 Company | Year
 ------------ | -------------
 Nyce Logic  | **2012-2017**
-Sogeti AB |  **2017-2023
+Sogeti AB |  **2017-2023**
 Lindify IT AB |  **2023-**
 
 
